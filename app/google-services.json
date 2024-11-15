@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285841072445",
+    "project_id": "library-ee4fc",
+    "storage_bucket": "library-ee4fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285841072445:android:be588a4c5b9bc06c0b2554",
+        "android_client_info": {
+          "package_name": "com.library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrPaHdnphqj1K3Ed4z1kPlOKbnJ4I_h8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
